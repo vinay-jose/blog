@@ -1,0 +1,10 @@
+---
+title: "Hello, blog!"
+# author: "Vinay Jose"
+date: "2024-05-31"
+# image: thumbnail.jpg
+categories: [beginner]
+---
+
+Just getting started...
+

@@ -1,0 +1,26 @@
+---
+title: "Vinay Jose"
+image: profile.jpeg
+about:
+  # id: hero-heading
+  template: jolla
+  links:
+    - icon: twitter
+      # text: Twitter
+      href: https://twitter.com/vinayjose
+    - icon: linkedin
+      # text: LinkedIn
+      href: https://linkedin.com/kxvinayjose
+    - icon: github
+      # text: Github
+      href: https://github.com/vinay-jose
+
+---
+
+I am a software engineer building Gen AI products for the web at [Dbiz Labs](https://dbiz.ai/).
+
+<!-- ## Experience
+
+ML Engineer | Dbiz.AI | February 2024 - present
+
+Senior Software Engineer | Hyreo Inc | April 2022 - September 2023 -->

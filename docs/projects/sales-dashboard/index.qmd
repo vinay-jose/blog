@@ -1,0 +1,10 @@
+---
+title: "Sales Visualization Dashboard"
+# author: "Vinay Jose"
+date: "2024-05-31"
+image: thumbnail.png
+categories: [beginner]
+---
+
+For Atliq Technologies.
+
