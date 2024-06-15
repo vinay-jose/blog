@@ -3,6 +3,12 @@ project:
 
 website:
   title: "Vinay Jose"
+  description: "a Software Engineer _delving_ into AI"
+  favicon: favicon/favicon-32x32.png
+  twitter-card: true
+  site-url: https://vinayjose.com
+  open-graph: true
+  search: false
   navbar:
     title: false
     left:
@@ -19,9 +25,12 @@ website:
         href: https://linkedin.com/kxvinayjose
       - icon: github
         href: https://github.com/vinay-jose
+  page-footer: 
+    center: "Copyright 2024, Vinay Jose" 
 format:
   html:
-    theme: cosmo
+    theme: lux
+    linkcolor: "#168873"
     css: styles.css
 
 
