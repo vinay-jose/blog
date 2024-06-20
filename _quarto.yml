@@ -15,9 +15,9 @@ website:
       - text: Home
         href: index.qmd
       - text: About
-        href: about.qmd
+        href: about
       - text: Projects
-        href: projects.qmd
+        href: projects
     right:
       - icon: twitter
         href: https://twitter.com/vinayjose
