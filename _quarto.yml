@@ -6,7 +6,7 @@ website:
   description: "a Software Engineer _delving_ into AI"
   favicon: favicon/favicon-32x32.png
   twitter-card: true
-  site-url: https://vinayjose.com
+  site-url: https://vinayjose.com/blog/
   open-graph: true
   search: false
   navbar:
@@ -32,6 +32,7 @@ format:
     theme: lux
     linkcolor: "#168873"
     css: styles.css
+    urlExtension: html
 
 
 
